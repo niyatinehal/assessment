@@ -1,4 +1,4 @@
-import { FlightBooker } from "../components/FlightBooker"
+import FlightBooker  from "../components/FlightBooker"
 
 function Home() {
     return (
